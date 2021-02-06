@@ -1,2 +1,5 @@
 # CheckPrimeNumber
-use JavaServlet And JSP
+Computer Enterpirse Ex2
+Create WebApp use JavaServlet And JSP 
+
+
